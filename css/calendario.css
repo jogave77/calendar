@@ -1,0 +1,24 @@
+
+#TD{
+	text-align: center;
+}
+.weekend {
+
+	background-color: yellow;
+	
+}
+
+.weekday {
+
+	background-color: green;
+}
+
+.holiday {
+
+	background-color: orange;
+}
+
+.invalidday {
+
+	background-color: gray;
+}
