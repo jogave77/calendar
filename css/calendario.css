@@ -1,21 +1,23 @@
-
-#TD{
-	text-align: center;
+.month{
+	padding: 20px;
 }
 .weekend {
 
 	background-color: yellow;
+	text-align: center;
 	
 }
 
 .weekday {
 
 	background-color: green;
+	text-align: center;
 }
 
 .holiday {
 
 	background-color: orange;
+	text-align: center;
 }
 
 .invalidday {
